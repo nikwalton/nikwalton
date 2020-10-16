@@ -1,4 +1,9 @@
-### Hi there 👋
+### hi there 👋
+my name is nik and I'm currently a student at Washington State University. Previous president of the ACM club on campus, now working on personal project and mentoring students with things such as putting on hackathons and commuinity engagement.
+### about me
+* 😄 Pronouns: He/Him/His
+* 🌱 I’m currently learning React, electron, django
+* 🔭 I’m currently working on lots of things
 
 <!--
 **nikwalton/nikwalton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
