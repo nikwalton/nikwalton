@@ -3,7 +3,8 @@ my name is nik and I'm currently a student at Washington State University. Previ
 ### about me
 * 😄 Pronouns: He/Him/His
 * 🌱 I’m currently learning React, electron, django
-* 🔭 I’m currently working on lots of things
+* 🔭 I’m currently working on lots of things, school is mad busy 
+* 👍 Some of my hobbies are photography (Digital and film), climbing, fencing, music, and gaming
 
 ## Stats
 
