@@ -1,5 +1,5 @@
 ### hi there 👋
-my name is nik and I'm currently a student at Washington State University. Previous president of the ACM club on campus, now working on personal project and mentoring students with things such as putting on hackathons and commuinity engagement.
+my name is nik and I'm currently a student at Washington State University. Previous president of the ACM club on campus, now working on personal projects and mentoring students with things such as putting on hackathons and commuinity engagement.
 ### about me
 * 😄 Pronouns: He/Him/His
 * 🌱 I’m currently learning React, electron, django
@@ -8,7 +8,7 @@ my name is nik and I'm currently a student at Washington State University. Previ
 
 ## Stats
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nikwalton&bg_color=232946&text_color=fffffe&title_color=eebbc3&show_icons=true&icon_color=eebbc3)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nikwalton&bg_color=232946&text_color=fffffe&title_color=eebbc3&show_icons=true&icon_color=eebbc3&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **nikwalton/nikwalton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
