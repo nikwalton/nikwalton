@@ -2,9 +2,9 @@
 my name is nik and I'm currently a student at Washington State University. Previous president of the ACM club on campus, now working on personal projects and mentoring students with things such as putting on hackathons and commuinity engagement.
 ### about me
 * 😄 Pronouns: He/Him/His
-* 🌱 I’m currently learning OpenGL, Houdini, React
-* 🖥 What I Use: MacOS, C/C++, Swift, HTML, CSS, Javascript
-* 🔭 I’m currently working on lots of things, school is mad busy 
+* 🌱 I’m currently learning Blender, OpenGL, React
+* 🖥 What I Use: MacOS, C/C++, Swift, Python, HTML, CSS, and the tinest bit of Typescript
+* 🔭 I’m currently working on reviewing data structures and making animations
 * 👍 Some of my hobbies are photography (Digital and film), climbing, fencing, music, and gaming
 
 ## Stats
