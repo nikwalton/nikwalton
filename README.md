@@ -4,7 +4,7 @@ my name is nik and I'm currently a student at Washington State University. Previ
 * 😄 Pronouns: He/Him/His
 * 🌱 I’m currently learning Blender, OpenGL, React
 * 🖥 What I Use: MacOS, C/C++, Swift, Python, HTML, CSS, and the tinest bit of Typescript
-* 🔭 I’m currently working on reviewing data structures and making animations
+* 🔭 I’m currently in my senior year so i'm not able to work on many cool things outside of class currently but stay tuned
 * 👍 Some of my hobbies are photography (Digital and film), climbing, fencing, music, and gaming
 
 ## Stats
