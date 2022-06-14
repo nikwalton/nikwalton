@@ -2,9 +2,9 @@
 my name is nik and I'm currently a student at Washington State University. Previous president of the ACM club on campus, now working on personal projects and mentoring students with things such as putting on hackathons and commuinity engagement.
 ### about me
 * 😄 Pronouns: He/Him/His
-* 🌱 I’m currently working on project in Unity, Svelte, and PostgreSQL
-* 🖥 What I Use: MacOS, C/C++, Swift, Python, HTML, CSS, and the tinest bit of Typescript
-* 🔭 I’m currently in my senior year so i'm not able to work on many cool things outside of class currently but stay tuned
+* 🌱 I’m currently working on learning Unreal Engine, C++ projects and Blender
+* 🖥 What I have been using lately: MacOS, C/C++, Blender, Swift, HTML/CSS/JS,  
+* 🔭 I’m a new grad from  Washington State University looking to break into my first tech role
 * 👍 Some of my hobbies are photography (Digital and film), climbing, fencing, music, and gaming
 
 ## Stats
