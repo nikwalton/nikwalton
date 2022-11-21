@@ -1,10 +1,9 @@
-### Hello, World 👋😁
-my name is nik and I'm a Washington State University recent graduate in computer science. I Was president of the ACM club on campus, but now  I'm working on personal projects and mentoring students with things such as putting on hackathons and commuinity engagement.
+### hello, world 👋😁
+My name is Nik and I'm a Washington State University recent graduate in computer science. I Was president of the ACM club on campus, but now  I'm working on personal projects and mentoring students with things such as putting on hackathons and commuinity engagement.
 ### about me
-* 😄 Pronouns: He/Him/His
+* 😄 pronouns: He/Him/His
 * 🌱 I’m currently working on learning Unreal Engine, C++ projects and Blender
 * 🖥 What I have been using lately: MacOS, C/C++, Blender, Swift, HTML/CSS/JS,  
-* 🔭 I’m a new grad from  Washington State University looking to break into my first tech role
 * 👍 Some of my hobbies are photography (Digital and film), climbing, fencing, music, and gaming
 
 ## Stats
