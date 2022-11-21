@@ -1,5 +1,5 @@
 ### Hello, World 👋😁
-my name is nik and I'm currently a student at Washington State University. Previous president of the ACM club on campus, now working on personal projects and mentoring students with things such as putting on hackathons and commuinity engagement.
+my name is nik and I'm a Washington State University recent graduate in computer science. I Was president of the ACM club on campus, but now  I'm working on personal projects and mentoring students with things such as putting on hackathons and commuinity engagement.
 ### about me
 * 😄 Pronouns: He/Him/His
 * 🌱 I’m currently working on learning Unreal Engine, C++ projects and Blender
