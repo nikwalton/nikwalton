@@ -7,7 +7,7 @@ My name is Nik and I'm a Washington State University recent graduate in computer
 * 👍 Some of my hobbies are photography (Digital and film), climbing, fencing, music, and gaming
 
 ### my general toolbox
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,py,swift,html,css,postgres,linux,vim,visualstudio,vscode)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,py,swift,html,css,postgres,linux,vim,visualstudio,vscode)
 <!--
 **nikwalton/nikwalton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
