@@ -6,10 +6,8 @@ My name is Nik and I'm a Washington State University recent graduate in computer
 * 🖥 What I have been using lately: MacOS, Windows 11 C/C++, Swift, Blender
 * 👍 Some of my hobbies are photography (Digital and film), climbing, fencing, music, and gaming
 
-## Stats
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nikwalton&bg_color=232946&text_color=fffffe&title_color=eebbc3&show_icons=true&icon_color=eebbc3&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
+### my general toolbox
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,py,swift,html,css,postgres,linux,vim,visualstudio,vscode)](https://skillicons.dev)
 <!--
 **nikwalton/nikwalton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
