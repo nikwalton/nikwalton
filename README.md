@@ -1,13 +1,23 @@
-### hello, world 👋😁
-My name is Nik and I'm a Washington State University recent graduate in computer science. I was president of the ACM club on campus, and put on Hackathons and mentored students about career stuff. Now I am working on projects and preparing for my first tech job.
-### about me
-* 😄 pronouns: He/Him/His
-* 🌱 I’m currently learning how to make a raytracer, reviewing for interviews and picking up whatever seems interesting to learn
-* 🖥 What I have been using lately: MacOS, Windows 11, C/C++, Python, Visual Studio and blender
-* 👍 Some of my hobbies are photography (Digital and film), climbing, fencing, music, and gaming
+<h1 align=center>Nikolaus Walton</h1>
+<h3 align=center>Software Developer, Mentor, and Lifelong learner</h3>
 
-### my general toolbox
-![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,py,swift,html,css,postgres,linux,vim,visualstudio,vscode)
+<h2 align=center>Tools I Use</h2>
+
+<div align=center>
+  
+![My Skills](https://skillicons.dev/icons?i=cpp,py,swift,html,css,postgres,linux,git,github,vim,figma,visualstudio,vscode)
+
+</div>
+
+
+<h2 align=center>About </h2>
+  
+* 😄 pronouns: He/Him/His
+* 👍 Some of my hobbies are photography (Digital and film), climbing, fencing, music, and gaming
+* ⚡Fun fact: I organized and went to hackathons for my entire time at university! Giving roughly 1,500 students in total the opportunity to build, network and learn.
+
+  <h1></h1>
+
 <!--
 **nikwalton/nikwalton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
