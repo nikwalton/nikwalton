@@ -5,18 +5,18 @@
 
 <div align=center>
   
-![My Skills](https://skillicons.dev/icons?i=cpp,swift,html,css,linux,git,github,figma,visualstudio,vscode)
+![My Skills](https://skillicons.dev/icons?i=cpp,swift,html,css,apple,linux,git,github,figma,visualstudio,vscode&theme=light)
 
 </div>
 
 
 <h2 align=center>About </h2>
-  
-* 😄 pronouns: He/Him/His
-* 👍 Some of my hobbies are photography (Digital and film), climbing, fencing, music, and gaming
-* ⚡Fun fact: I organized and went to hackathons for my entire time at university! Giving roughly 1,500 students in total the opportunity to build, network and learn.
 
-  <h1></h1>
+* _He/Him/His_
+* Some of my hobbies are photography (Digital and film), climbing, fencing, music, and gaming
+* Fun fact: I organized and went to hackathons for my entire time at university! Giving roughly 1,500 students in total the opportunity to build, network and learn.
+
+<h1></h1>
 
 <!--
 **nikwalton/nikwalton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
