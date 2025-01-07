@@ -5,7 +5,7 @@
 
 <div align=center>
   
-![My Skills](https://skillicons.dev/icons?i=cpp,swift,html,css,apple,linux,git,github,figma,visualstudio,vscode&theme=light)
+![My Skills](https://skillicons.dev/icons?i=cpp,swift,py,html,css,ts,apple,linux,git,github,figma,vscode,ableton&theme=light)
 
 </div>
 
