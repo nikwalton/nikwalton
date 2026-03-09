@@ -12,7 +12,6 @@
 
 <h2 align=center>About </h2>
 
-* _He/Him/His_
 * Some of my hobbies are photography (Digital and film), climbing, fencing, music, and gaming
 * Fun fact: I organized and went to hackathons for my entire time at university! Giving roughly 1,500 students in total the opportunity to build, network and learn.
 
